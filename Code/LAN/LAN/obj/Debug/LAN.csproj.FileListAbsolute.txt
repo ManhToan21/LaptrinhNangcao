@@ -1,0 +1,7 @@
+D:\Programming\Console\LAN\LAN\bin\Debug\LAN.exe.config
+D:\Programming\Console\LAN\LAN\bin\Debug\LAN.exe
+D:\Programming\Console\LAN\LAN\bin\Debug\LAN.pdb
+D:\Programming\Console\LAN\LAN\obj\Debug\LAN.csprojAssemblyReference.cache
+D:\Programming\Console\LAN\LAN\obj\Debug\LAN.csproj.CoreCompileInputs.cache
+D:\Programming\Console\LAN\LAN\obj\Debug\LAN.exe
+D:\Programming\Console\LAN\LAN\obj\Debug\LAN.pdb

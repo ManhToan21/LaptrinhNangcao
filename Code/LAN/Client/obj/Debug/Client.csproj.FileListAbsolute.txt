@@ -1,0 +1,14 @@
+D:\Programming\Console\LAN\Client\bin\Debug\Client.exe.config
+D:\Programming\Console\LAN\Client\bin\Debug\Client.exe
+D:\Programming\Console\LAN\Client\bin\Debug\Client.pdb
+D:\Programming\Console\LAN\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Programming\Console\LAN\Client\obj\Debug\Client.exe
+D:\Programming\Console\LAN\Client\obj\Debug\Client.pdb
+D:\Programming\Console\LAN\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\LAN\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Downloads\LAN\Client\bin\Debug\Client.exe
+C:\Users\Admin\Downloads\LAN\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Downloads\LAN\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\LAN\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LAN\Client\obj\Debug\Client.exe
+C:\Users\Admin\Downloads\LAN\Client\obj\Debug\Client.pdb

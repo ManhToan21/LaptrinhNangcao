@@ -1,0 +1,31 @@
+﻿@model WepApp.Models.AccountBinding
+
+@{
+    ViewBag.Title = "Login";
+    var view = new VstViewFormat
+    {
+        DataSource = Model,
+        Columns = new List<ColumnInfo>
+        {
+            new ColumnInfo { Name = "UserName", ClassName = "lg-12", Caption = "Tên người dùng", AllowNull = false },
+            new ColumnInfo { Name = "Password", ClassName = "lg-12", Caption = "Mật khẩu", Type = "password" },
+            new ColumnInfo { Name = "KeepLogin", ClassName = "lg-12", Caption = "Duy trì đăng nhập", Input = "checkbox" },
+        },
+    };
+}
+
+<h2>Login</h2>
+<div id="main-content"></div>
+
+<script>
+    var fields = @view.HtmlColumns;
+    var values = @view.HtmlData;
+
+    var dlg = new ApiForm("/home/login", fields, values);
+    ApiMessages = ["Dang nhap thanh cong", "Nguoi dung khong ton tai", "Sai mat khau"];
+
+    responseOK = function (e) {
+        window.location.href = "/home/index/" + e.Value.Id;
+    }
+    //showMsg = function (s) { alert(s); }
+</script>

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Devices";
+    var view = new VstViewFormat
+    {
+        DataSource = Model,
+        Columns = new List<ColumnInfo>
+        {
+            new ColumnInfo { Name = "Id", ClassName = "lg-12", Caption = "Mã thiết bị" },
+            new ColumnInfo { Name = "Name", ClassName = "lg-12", Caption = "Tên thiết bị" },
+        },
+    };
+}
+
+<h2>@ViewBag.Title</h2>
+<style>
+    .Id {
+        width: 200px;
+        background-color: whitesmoke;
+    }
+    .Name {
+        width: 400px;
+    }
+</style>
+
+<div id="main-content"></div>
+
+<script>
+    var fields = @view.HtmlColumns;
+    var values = @view.HtmlData;
+
+    var table = new ApiTable("/device/", fields, values, 7, "gear");
+</script>

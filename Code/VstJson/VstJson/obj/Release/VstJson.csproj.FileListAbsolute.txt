@@ -1,0 +1,12 @@
+D:\Programming\VstJson\VstJson\bin\Release\VstJson.dll
+D:\Programming\VstJson\VstJson\bin\Release\VstJson.pdb
+D:\Programming\VstJson\VstJson\bin\Release\Newtonsoft.Json.Bson.dll
+D:\Programming\VstJson\VstJson\bin\Release\Newtonsoft.Json.dll
+D:\Programming\VstJson\VstJson\bin\Release\Newtonsoft.Json.pdb
+D:\Programming\VstJson\VstJson\bin\Release\Newtonsoft.Json.xml
+D:\Programming\VstJson\VstJson\bin\Release\Newtonsoft.Json.Bson.pdb
+D:\Programming\VstJson\VstJson\bin\Release\Newtonsoft.Json.Bson.xml
+D:\Programming\VstJson\VstJson\obj\Release\VstJson.csproj.CoreCompileInputs.cache
+D:\Programming\VstJson\VstJson\obj\Release\VstJson.csproj.CopyComplete
+D:\Programming\VstJson\VstJson\obj\Release\VstJson.dll
+D:\Programming\VstJson\VstJson\obj\Release\VstJson.pdb

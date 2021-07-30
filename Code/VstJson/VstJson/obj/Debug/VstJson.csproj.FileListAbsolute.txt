@@ -1,0 +1,11 @@
+D:\Programming\VstJson\VstJson\bin\Debug\VstJson.dll
+D:\Programming\VstJson\VstJson\bin\Debug\VstJson.pdb
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.pdb
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.dll
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.pdb
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache

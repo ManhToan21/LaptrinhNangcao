@@ -1,0 +1,5 @@
+D:\Programming\MvcEngine\bin\Release\MvcEngine.dll
+D:\Programming\MvcEngine\bin\Release\MvcEngine.pdb
+D:\Programming\MvcEngine\obj\Release\MvcEngine.csproj.CoreCompileInputs.cache
+D:\Programming\MvcEngine\obj\Release\MvcEngine.dll
+D:\Programming\MvcEngine\obj\Release\MvcEngine.pdb
